@@ -1,0 +1,23 @@
+1)	mkdir – p school
+
+2)	cd school opens the parent folder
+
+3)	nano: 
+
+Created four .txt files and saved them by using ctrl+O, renaming them each time)
+ 
+4)	Created three folders by using the command “mkdir - toolsb CS1 CS2” (I already had the “tools” from a previous exercise.
+
+
+5)	Copied the .txt -files into the correct directory
+
+cp cmnd.txt ~/toolsb/
+cp lecture.txt ~/CS1/
+cp lecture2.txt ~/CS2/
+cp java.txt ~/CS2/
+
+6)	Moved the three directories to the parent directory
+
+mv ~/toolsb ~/school
+mv ~/CS1 ~/school
+mv ~/CS2 ~/school
