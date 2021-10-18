@@ -1,1 +1,2 @@
 Testing Git subfolder
+git add
