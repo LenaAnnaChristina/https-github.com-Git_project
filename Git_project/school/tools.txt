@@ -1,2 +1,6 @@
+Adding a new line
+
 Testing Git subfolder
 git add
+
+Adding another line
