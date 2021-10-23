@@ -15,4 +15,8 @@ If you see the following message when creating a commit error: cannot run : No s
 
 To submit, give all the commands used in the exercise.
 
+<<<<<<< HEAD
 ADDING A SECOND LINE WITOUT COMMIT, TESTING STASH
+=======
+ADDING A SECOND LINE WITOUT COMMIT, TESTING STASH
+>>>>>>> d71ce0446b929744339a28d893f697478dec89a7
